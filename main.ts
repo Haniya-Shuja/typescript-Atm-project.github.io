@@ -1,3 +1,4 @@
+
 import inquirer from "inquirer";
  
 let myBalance = 10000;

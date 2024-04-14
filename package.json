@@ -1,19 +1,27 @@
 {
   "name": "atm-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "An npm package of atm",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Haniya-Shuja",
+  "license": "Apache-2.0",
   "dependencies": {
     "inquirer": "^9.2.17"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haniya-Shuja/ts_atm-project.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Haniya-Shuja/ts_atm-project.github.io/issues"
+  },
+  "homepage": "https://github.com/Haniya-Shuja/ts_atm-project.github.io#readme"
 }
